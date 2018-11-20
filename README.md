@@ -60,7 +60,7 @@ are updated to be same as in collection meteor_accounts_loginServiceConfiguratio
 
 From LoginPlatforms to meteor_accounts_loginServiceConfiguration
 
-When parameter values are modified and saved in login platforms page, the new values are stored into both collections:
+When parameter values are modified and saved in Login platforms page, the new values are stored into both collections:
 LoginPlatforms and meteor_accounts_loginServiceConfiguration. 
 
 
@@ -72,14 +72,14 @@ It is also possible to remove configuration parameter values.
 When Admin User empties the parameter values in login platforms page and saves it, the values are
 removed from both collections.
 
-Note! When configuration parameters are removed from a OAuth service, they can be added either by using log_in page
+Note! When configuration parameters are removed from a OAuth service, they can be added either by using Sign_in page
 or Login Platforms page.
 
 
 Adding configuration parameters
 -------------------------------
 
-Admin User can add configuration parameter values using login platforms page. 
+Admin User can add configuration parameter values using Login platforms page. 
 
 When added values are saved, they are stored in both databases.
 
