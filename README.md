@@ -67,9 +67,11 @@ LoginPlatforms and meteor_accounts_loginServiceConfiguration.
 Removing configuration parameters
 ---------------------------------
 
-It is also possible to remove configuration parameter values. 
+It is also possible to remove configuration parameter values.
+
 When Admin User empties the parameter values in login platforms page and saves it, the values are
 removed from both collections.
+
 Note! When configuration parameters are removed from a OAuth service, they can be added either by using log_in page
 or Login Platforms page.
 
@@ -77,8 +79,9 @@ or Login Platforms page.
 Adding configuration parameters
 -------------------------------
 
-Admin User can add configuration parameter values using login platforms page. When added values are saved,
-they are stored in both databases.
+Admin User can add configuration parameter values using login platforms page. 
+
+When added values are saved, they are stored in both databases.
 
 
 
